@@ -55,3 +55,20 @@ OUTPUTS:
 
 ![1output good mux](https://github.com/akhilbhandary21/vsd/assets/160320450/ced42b8a-f395-4401-8a61-2b8f63f6e3a5)
 ![output ](https://github.com/akhilbhandary21/vsd/assets/160320450/31c6a7b7-c9a6-412c-9c5f-773c6c094891)
+
+
+
+
+
+TASK 5 ACTIVITIES AND OUTPUTS
+
+![DESIGN AND SYNTHESIS](https://github.com/akhilbhandary21/vsd/assets/160320450/4525cfbd-0e22-4785-853c-e110842e7fd8)
+![CPS NETLIST](https://github.com/akhilbhandary21/vsd/assets/160320450/5b6ade9e-da82-4bef-a4f3-f8901bfa5641)
+![XDOT](https://github.com/akhilbhandary21/vsd/assets/160320450/d28be2b0-200c-4830-b104-007d104fcaf8)
+![VERILOG FILES](https://github.com/akhilbhandary21/vsd/assets/160320450/8c86f6b5-1b42-4e2c-b7c9-1bff1e558649)
+![IIITB CPS](https://github.com/akhilbhandary21/vsd/assets/160320450/d25d0fec-0c47-4453-ac60-fe5e704c133d)
+![IIITB CPS GVIM](https://github.com/akhilbhandary21/vsd/assets/160320450/032d7495-c2b4-4454-8378-49345012b3f7)
+![GTK WAVE WAVEFORM](https://github.com/akhilbhandary21/vsd/assets/160320450/ac8d04df-3484-46ed-a1b3-bcb786b51550)
+![DOT VIEWER](https://github.com/akhilbhandary21/vsd/assets/160320450/fab63e9c-36c2-4ed4-b1ae-bf671a1adf55)
+![DOT VIEWER (2)](https://github.com/akhilbhandary21/vsd/assets/160320450/56e9e804-98b3-4b7b-9ce1-ed46695554bd)
+![DOT POINT](https://github.com/akhilbhandary21/vsd/assets/160320450/270f24bd-2a5d-48b1-92bb-94b19855045e)
