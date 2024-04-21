@@ -78,7 +78,11 @@ LED BLINK USING VLSI using VSDSquadron Mini RISC-V Development kit .
 
   Basis of functional simulation
   <br>
-  ![Screenshot from 2024-02-25 13-36-48](https://github.com/KumarKarthikeya/VLSI-VSD/assets/72381320/7d5ead33-1c86-4262-b9d3-6f503af320e0)
+  ![Screenshot from 2024-02-25 13-36-48](https://github.com/KumarKarthikeya/VLSI-VSD/assets/72381320/7d5ead33-1c86-4262-b9d3-6f503af320e0)     
+
+
+
+  
   REQUIRED PICTURES.
   ![task3out](https://github.com/akhilbhandary21/vsd/assets/160320450/91814ec3-ad1e-448c-ae8d-72025818c3df)
   
@@ -146,7 +150,7 @@ LED BLINK USING VLSI using VSDSquadron Mini RISC-V Development kit .
   ![gvim code](https://github.com/KumarKarthikeya/VLSI-VSD/assets/72381320/36b34545-5ce3-4788-831a-f8450153fd68)
 
 
-  TASK 4 REUIRED DETAILED PICTURE
+  TASK 4 REQUIRED DETAILED PICTURE
   ![c2](https://github.com/akhilbhandary21/vsd/assets/160320450/01c5f3ca-242b-4d81-9d8a-6f3049c6a96a)
   ![c1](https://github.com/akhilbhandary21/vsd/assets/160320450/c15e113f-f60d-40dc-8fb2-a23a731487d1)
   ![c5](https://github.com/akhilbhandary21/vsd/assets/160320450/d6d23587-8c2b-4ebd-8386-89af26d0457b)
