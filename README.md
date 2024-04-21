@@ -179,10 +179,7 @@ Check the Gtkwave for the design
 ![gtkwave](https://github.com/KumarKarthikeya/VLSI-VSD/assets/72381320/91c7e561-947e-48f9-9c77-6e9d60f8e50a)
 
    To Generate the netlist extract the git code file of car parking system project
-   
-  <code> git clone https://github.com/ishan-desai64/iiitb_cps.git</code>
-  <br>
-  [git cline](https://github.com/akhilgwoda2003/README/assets/146440570/e6d1eb2e-ec60-434f-8775-82bbaef7ea4e)
+
 
   Invoking yosys inside iiitb_cps file
   
